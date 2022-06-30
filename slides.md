@@ -54,7 +54,7 @@ layout: section
 ---
 
 # Stats
-[performance](https://rawgit.com/krausest/js-framework-benchmark/master/webdriver-ts-results/table.html)
+[performance results](https://rawgit.com/krausest/js-framework-benchmark/master/webdriver-ts-results/table.html)
 <img class="w-[600px]"  src="/npm-trends.png" >
 
 <!--
