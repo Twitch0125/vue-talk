@@ -156,3 +156,10 @@ Computed() properties are based off of some Data value.
 
 Everything is accessible through "this". This refers to the Component Instance or "vm" as its commonly called in code.
 -->
+
+---
+layout: section
+---
+# Vue Adapts
+In a state of the vuenion presentation in june 2022, Evan You talked about a new experimental compilation strategy
+that makes it much more like Svelte or Solid.js since it would have no virtual DOM and is compiler centric
